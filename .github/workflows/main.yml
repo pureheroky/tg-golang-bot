@@ -29,14 +29,14 @@ jobs:
 
     - name: Deploy to server
       run: |
-        ssh -o StrictHostKeyChecking=no root@YOUR_SERVER_IP << 'EOF'
+        ssh -o StrictHostKeyChecking=no root@${{ secrets.SERVER_IP }} << 'EOF'
           systemctl stop pureherokybot.service
           
           rm -f /home/tg-golang-bot/cmd/bot
-          scp bot root@YOUR_SERVER_IP:/home/tg-golang-bot/cmd/bot
+          scp bot root@${{ secrets.SERVER_IP }}:/home/tg-golang-bot/cmd/bot
 
           systemctl start pureherokybot.service
         EOF
       env:
         SERVER_USER: root
-        SERVER_IP: YOUR_SERVER_IP
+        SERVER_IP: ${{ secrets.SERVER_IP }}
