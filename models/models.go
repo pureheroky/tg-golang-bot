@@ -17,3 +17,8 @@ type SkillsResponse struct {
 	Data   string `json:"data"`
 	Status int    `json:"status"`
 }
+
+type AwaitingRequests struct {
+	sync.RWMutex
+	M map[int64]bool
+}
