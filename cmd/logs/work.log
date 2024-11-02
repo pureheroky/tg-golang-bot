@@ -71,3 +71,40 @@ INFO: 2024/10/20 18:35:25 Received /start command from user 1059223891
 INFO: 2024/10/20 18:35:28 Received callback query from user 1059223891: request
 INFO: 2024/10/20 18:35:51 Received /start command from user 1059223891
 INFO: 2024/10/20 18:35:52 Received callback query from user 1059223891: request
+INFO: 2024/11/02 19:48:51 Bot started successfully.
+INFO: 2024/11/02 19:48:51 Received /start command from user 1059223891
+INFO: 2024/11/02 19:48:58 Received /start command from user 1059223891
+INFO: 2024/11/02 19:49:02 Received callback query from user 1059223891: skills
+INFO: 2024/11/02 19:49:04 Received callback query from user 1059223891: back
+INFO: 2024/11/02 19:49:05 Received callback query from user 1059223891: git
+INFO: 2024/11/02 19:49:08 Received callback query from user 1059223891: next_git
+INFO: 2024/11/02 19:49:09 Received callback query from user 1059223891: next_git
+INFO: 2024/11/02 19:49:09 Received callback query from user 1059223891: next_git
+INFO: 2024/11/02 19:49:10 Received callback query from user 1059223891: next_git
+INFO: 2024/11/02 19:49:11 Received callback query from user 1059223891: next_git
+INFO: 2024/11/02 19:49:15 Received callback query from user 1059223891: next_git
+INFO: 2024/11/02 19:49:16 Received callback query from user 1059223891: next_git
+INFO: 2024/11/02 19:49:17 Received callback query from user 1059223891: next_git
+INFO: 2024/11/02 19:49:18 Received callback query from user 1059223891: next_git
+INFO: 2024/11/02 19:49:19 Received callback query from user 1059223891: next_git
+INFO: 2024/11/02 19:49:23 Received callback query from user 1059223891: back
+INFO: 2024/11/02 19:49:24 Received callback query from user 1059223891: git
+INFO: 2024/11/02 19:49:25 Received callback query from user 1059223891: back
+INFO: 2024/11/02 19:49:26 Received callback query from user 1059223891: projects
+INFO: 2024/11/02 19:49:27 Received callback query from user 1059223891: next_project
+INFO: 2024/11/02 19:49:28 Received callback query from user 1059223891: next_project
+INFO: 2024/11/02 19:49:28 Received callback query from user 1059223891: next_project
+INFO: 2024/11/02 19:49:29 Received callback query from user 1059223891: next_project
+INFO: 2024/11/02 19:49:29 Received callback query from user 1059223891: next_project
+INFO: 2024/11/02 19:49:30 Received callback query from user 1059223891: previous_project
+INFO: 2024/11/02 19:49:34 Received callback query from user 1059223891: previous_project
+INFO: 2024/11/02 19:49:35 Received callback query from user 1059223891: previous_project
+INFO: 2024/11/02 19:49:36 Received callback query from user 1059223891: previous_project
+INFO: 2024/11/02 19:49:36 Received callback query from user 1059223891: previous_project
+INFO: 2024/11/02 19:49:37 Received callback query from user 1059223891: previous_project
+INFO: 2024/11/02 19:49:42 Received callback query from user 1059223891: back
+INFO: 2024/11/02 19:49:43 Received callback query from user 1059223891: projects
+INFO: 2024/11/02 19:50:17 Bot started successfully.
+INFO: 2024/11/02 19:50:23 Received callback query from user 1059223891: back
+INFO: 2024/11/02 19:50:24 Received callback query from user 1059223891: projects
+INFO: 2024/11/02 19:50:26 Received callback query from user 1059223891: back
